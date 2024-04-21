@@ -115,3 +115,22 @@ main {
     padding: 8%;
     color: rgb(76, 72, 72);
 }
+
+.form {
+    display: block;
+    width: 90%;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+#email {
+    width: 200px;
+    height: 30px;
+    border: #a08c7a; solid 1px;
+    background-color: #FAE5D3;
+    border-radius: 4px; 
+    font-size: 16px;
+    text-align: center;
+}
