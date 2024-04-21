@@ -115,6 +115,16 @@ h5 {
 }
 
 /* Offer section */
+h4 {
+    text-align: center;
+}
+
+#offer {
+    font-size: 120%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 #box {
     text-align: center;
 }
