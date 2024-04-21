@@ -96,6 +96,11 @@ main {
     margin-top: 81px;
 }
 
+/* Hidden heading in the page */
+.hidden-heading {
+    display: none;
+}
+
 /* Footer */
 
 .box5 {
