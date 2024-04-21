@@ -248,6 +248,16 @@ h2 {
 #construction {
     width: 200PX;
     height: 100px;
-    background: url("../images/website-maintenance.png") no-repeat center center/cover;
+    background: url("../images/website-maintenance.png") no-repeat center center/cover; 
     margin: 20px 10px 20px 10px;
 }
+
+/* Gallery Page */
+
+.inspiration > i {
+   
+    font-size: 350%;
+    color: darkred;
+}
+
+/* Media query:smaller screen (max-width 768px) */
