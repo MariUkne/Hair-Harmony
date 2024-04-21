@@ -98,6 +98,20 @@ main {
 
 /* Footer */
 
-footer {
-    background-color: black;
+.box5 {
+    background-color: #F5CBA7;
+}
+
+#social {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social i {
+    font-size: 180%;
+    padding: 8%;
+    color: rgb(76, 72, 72);
 }
