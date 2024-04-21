@@ -145,7 +145,7 @@ h5 {
 
 /* Moment section */
 
-.box4 {
+.box3 {
     box-shadow: 0 -1em 2em #fad0a5,
     0 0 0 1px rgb(243, 194, 145, .5),
     inset 0.2em 0.2em 2em #f7d4b0;;
@@ -153,6 +153,33 @@ h5 {
     border-radius: 50%;
     margin: 10px;
 }
+
+/* Contact section */
+
+.contact {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 2px;
+}
+
+.box4 {
+    box-shadow: inset 0 -1em 2em #F5CBA7,
+    0 0 0 2px #FDF2E9,
+    0.3em 0.3em 1em #FAE5D3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.adress > p {
+    text-align: center;
+    margin-top: 4px;
+}
+
 /* Footer */
 
 .box5 {
