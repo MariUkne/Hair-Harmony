@@ -235,3 +235,19 @@ h4 {
     padding: 5px 10px;
     border-radius: 4px;
 }
+
+/* About page */
+
+h2 {
+    text-align: center;
+    text-decoration: solid;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+#construction {
+    width: 200PX;
+    height: 100px;
+    background: url("../images/website-maintenance.png") no-repeat center center/cover;
+    margin: 20px 10px 20px 10px;
+}
