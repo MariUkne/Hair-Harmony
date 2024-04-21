@@ -42,6 +42,12 @@ header a {
     color: inherit;
 }
 
+h1 {
+    font-family: "berkshire swash", sans-serif;
+    text-transform: none;
+    letter-spacing: 1px;
+}
+
 /* Main content */
 main {
     background-color: #FAE5D3;
