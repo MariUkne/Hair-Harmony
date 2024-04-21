@@ -101,6 +101,13 @@ main {
     display: none;
 }
 
+/* Salon section */
+#salon {
+    height: 300px;
+    width: 100%;
+    background: url("../images/pexels-karolina-grabowska-6629521.jpg") no-repeat center center/cover;
+}
+
 /* Footer */
 
 .box5 {
