@@ -96,6 +96,12 @@ main {
     margin-top: 81px;
 }
 
+h5 {
+    text-align: center;
+    font-size: 120%;
+    font-family: "berkshire swash", sans-serif;
+}
+
 /* Hidden heading in the page */
 .hidden-heading {
     display: none;
@@ -108,6 +114,34 @@ main {
     background: url("../images/pexels-karolina-grabowska-6629521.jpg") no-repeat center center/cover;
 }
 
+/* Offer section */
+#box {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+    text-align: center;
+    line-height: 1.5;
+
+}
+.box1 {
+    box-shadow: inset 0 -1em 2em #F5CBA7,
+    0 0 0 2px #FDF2E9,
+    0.3em 0.3em 1em #FAE5D3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.box2 {
+    box-shadow: inset 0 -1em 2em #F5CBA7,
+    0 0 0 2px #FDF2E9,
+    0.3em 0.3em 1em #FAE5D3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
 /* Footer */
 
 .box5 {
