@@ -9,3 +9,14 @@
     box-sizing: border-box;
 }
 
+/* Body section */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* General project style */
+    color: rgb(61, 59, 59);
+    font-family: "poppin", sans-serif;
+    font-style: italic;
+}
