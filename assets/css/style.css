@@ -261,3 +261,91 @@ h2 {
 }
 
 /* Media query:smaller screen (max-width 768px) */
+@media  screen and (max-width: 768px) {
+    main {
+        margin-top: 81px;
+    }
+
+.form {
+    width: 100%;
+    max-width: none;
+}
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        padding-right: 1rem;
+        width: fit-content;
+        box-shadow: none;
+    }
+
+    #menu { 
+        display: flex;
+    }
+
+    #menu li {
+        padding-left: 1rem;
+    }
+
+    #menu a {
+        font-size: 110%;
+    }
+
+    .dropdown-menu {
+        display: none;
+    }
+
+    #logo {
+        font-size: 300%;
+        line-height: 60px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main Content */
+    main {
+        margin-top: 161px;
+    }
+
+    #box {
+        display: flex;
+    }
+
+    .box1, .box2 {
+        flex: 1;
+    }
+
+    /* Offer Section */
+    .box4 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    h4 {
+        font-size: 150%;
+    }
+
+    #list > i {
+        font-size: 150%;
+    }
+
+    #list > li {
+        font-size: 140%;
+        font-weight: bold;
+    }
+
+    .text-center .div2 {
+         font-size: 140%;
+    }
+
+    h5 {
+        font-size: 140%;
+    }
+    
+}
+
