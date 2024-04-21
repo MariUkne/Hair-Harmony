@@ -90,7 +90,10 @@ nav {
 }
 /* Main content */
 main {
-    background-color: #37ba29;
+    background-color: #FAE5D3;
+    /* Make main element take up space to push down footer*/
+    flex: 1 0 auto;
+    margin-top: 81px;
 }
 
 /* Footer */
