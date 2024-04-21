@@ -36,3 +36,19 @@ header {
     justify-content: space-between;
     align-items: baseline;
 }
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Main content */
+main {
+    background-color: #FAE5D3;
+}
+
+/* Footer */
+
+footer {
+    background-color: black;
+}
