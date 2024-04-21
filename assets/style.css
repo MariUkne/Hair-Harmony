@@ -20,3 +20,19 @@ body {
     font-family: "poppin", sans-serif;
     font-style: italic;
 }
+
+/* Header */
+
+header {
+    background-color: #FDF2E9;
+    padding: 20px;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: inset 0 -1em 2em #F5CBA7,
+    0 0 0 2px #FDF2E9,
+    0.3em 0.3em 1em #FAE5D3;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
