@@ -349,3 +349,72 @@ h2 {
     
 }
 
+/* Media query: desktop and larger (992px and up) */
+@media screen and (min-width: 992px) {
+    main {
+        margin-top: 161px;
+    }
+
+    /* Offer Section */
+    #box {
+        display: flex;
+    }
+
+    .box1, .box2 {
+        flex: 1;
+    }
+
+    h5 {
+        font-size: 140%;
+    }
+
+    /* Contact Section */
+    .box4 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+
+/* Media query: larger screens (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* main section */
+
+    main {
+        margin-top: 101px;
+    }
+
+    /* Moment Section */
+
+    h5 {
+        font-size: 200%;
+    }
+
+    /* Offer Section */
+    #box {
+        display: flex;
+        margin: 20px 0 20px 0;
+    }
+
+    .box1, .box2 {
+        flex: 1;
+    }
+    
+    /* Contact Section */
+    .box4 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .div1 {
+        margin-left: 4px;
+    }
+
+    .div2 {
+        margin-right: 10px;
+    }
+}
