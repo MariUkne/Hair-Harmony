@@ -64,4 +64,9 @@ This page was created to reach out to more people who feel they want to pamper t
 
 * __Inspiration Page__ 
 
-  - 
+  - This page is under construction but it will contain.
+    
+    - Images and videos of
+
+      - Hairstyles
+      - Massage techniques
