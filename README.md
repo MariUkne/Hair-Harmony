@@ -52,3 +52,16 @@ This page was created to reach out to more people who feel they want to pamper t
 
   ![screenshot of the footer](assets/images/Skärmbild%202024-04-22%20125628.png)
 
+* __About Me Page__ 
+
+  - This page is under construction, but it will contain.
+
+    - Some personal details
+    - Educational information
+    - Experiences
+
+![screenshot of about me page](assets/images/Skärmbild%202024-04-22%20130808.png)
+
+* __Inspiration Page__ 
+
+  - 
