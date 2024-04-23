@@ -2,7 +2,7 @@
 
 ![a am i responsive images of the website](assets/images/Skärmbild%202024-04-19%20102553.png)
 
-Welcome to Hair & Harmony`s website. 
+Welcome to Hair & Harmony website. 
 The Salon where you get your own time. 
 This page was created to reach out to more people who feel they want to pamper themselves. Maybe a new look with a new hairstyle or hair color, or a relaxing massage. If the user perhaps have pain during their pregnancy or just stiff muscles? I want to show that I`m here for them. They just have to take a look at the page and contact me by phone or e-mail. There is also a subscribe for offers option. 
 
@@ -77,9 +77,16 @@ This page was created to reach out to more people who feel they want to pamper t
 
 When I deployed the website, I tested clicking on all the links. They were supposed to take me to the respective pages or sections, which they did. The test was approved.
 
+In the subscribe section, I tried to submit without any text in the field, which didn`t work. I also filled in the field without "@", which was also not accepted. That met my expectations.
+
+[!CAUTION] 
+
+There is no receiving page, so when the user inputs everything correctly and presses subscribe, they end up on a error page.   
 
 ### Validator Testing
 
   - HTML
      
-     - 
+     - **index.html:** No errors were returned when passing through validation.
+     - **about.html** One warning of missing heading were returned when passing through validation. *Fixed it with a hidden heading*   
+
