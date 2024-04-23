@@ -129,3 +129,4 @@ And to get the right shades and codes, I used [htmlcolorcodes](https://htmlcolor
 
 - The icon in footer and inspiration page were taken from [Font Awesome](https://fontawesome.com/icons)
 
+- [This template](https://github.com/Code-Institute-Solutions/readme-template) give me Inspiration to my README.
