@@ -4,7 +4,7 @@
 
 Welcome to Hair & Harmony`s website. 
 The Salon where you get your own time. 
-This page was created to reach out to more people who feel they want to pamper themselves. Maybe a new look with a new hairstyle or hair color, or a relaxing massage. Do you perhaps have pain during your pregnancy or just stiff muscles? I am here for you. Just take a look at the page and contact me by phone or e-mail. Do not forget to subscribe for offers. 
+This page was created to reach out to more people who feel they want to pamper themselves. Maybe a new look with a new hairstyle or hair color, or a relaxing massage. If the user perhaps have pain during their pregnancy or just stiff muscles? I want to show that I`m here for them. They just have to take a look at the page and contact me by phone or e-mail. There is also a subscribe for offers option. 
 
 [Hair & Harmony](https://mariukne.github.io/hair-harmony/index.html)
 
@@ -70,3 +70,16 @@ This page was created to reach out to more people who feel they want to pamper t
 
       - Hairstyles
       - Massage techniques
+
+![screenshot of inspiration page](assets/images/Skärmbild%202024-04-22%20132850.png)
+
+## Testing 
+
+When I deployed the website, I tested clicking on all the links. They were supposed to take me to the respective pages or sections, which they did. The test was approved.
+
+
+### Validator Testing
+
+  - HTML
+     
+     - 
