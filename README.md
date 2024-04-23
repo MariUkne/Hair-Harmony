@@ -88,5 +88,19 @@ There is no receiving page, so when the user inputs everything correctly and pre
   - HTML
      
      - **index.html:** No errors were returned when passing through validation.
-     - **about.html** One warning of missing heading were returned when passing through validation. *Fixed it with a hidden heading*   
+     - **about.html** One warning of missing heading were returned when passing through validation. *Fixed it with a hidden heading*
+     - **gallery.html** No errors were returned when passing trough validation.
+
+  - CSS No errors were returned when passing through CSS validation.    
+
+### Lighthouse analysis
+
+- Mobile analysis
+
+![screenshot of lighthouse mobile analysis](assets/images/Skärmbild%202024-04-23%20102156.png)
+
+- Desktop analysis
+
+![screenshot of lighthouse desktop analysis](assets/images/Skärmbild%202024-04-23%20101812.png)
+
 
