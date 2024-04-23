@@ -103,4 +103,29 @@ There is no receiving page, so when the user inputs everything correctly and pre
 
 ![screenshot of lighthouse desktop analysis](assets/images/Skärmbild%202024-04-23%20101812.png)
 
+## Credits
+
+- Instructions on how to code various parts were provided to me by LMS at [Code Institute](https://learn.codeinstitute.net/dashboard), Love running projekt, and [chatGPT](https://chat.openai.com/).
+
+- The shadows on the website, I gott inspiration from [box-shadow,developer](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+
+- My daughter helped me with color choices.
+And to get the right shades and codes, I used [htmlcolorcodes](https://htmlcolorcodes.com/)
+
+- [chatGPT](https://chat.openai.com) also helped me with the language. From Swedish to English 
+
+- The validation of the HTML pages went through [W3C](https://validator.w3.org/)
+
+- The validation of the CSS page went through [W3C-CSS](https://jigsaw.w3.org/css-validator/)
+
+
+### Media
+
+- The image for landing page comes from **Karolina Grabowska** on the open source site [pexel](https://www.pexels.com/sv-se/foto/kvinna-avslappning-massage-hud-6629521/)
+
+- The image for about page were taken from [Iconscout](https://iconscout.com/free-illustration/website-maintenance-2043027)
+
+- Fontstyles to the website is Berkshire swash and poppin which is sourced from [Google Fonts](https://fonts.google.com/)
+
+- The icon in footer and inspiration page were taken from [Font Awesome](https://fontawesome.com/icons)
 
